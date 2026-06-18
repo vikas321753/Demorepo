@@ -1,4 +1,1 @@
-ignfjgrkldfjgsjldfj
-3u42897897589083423428
-kkjdfgfdkmfd
-dfnsbbgkjfdkjfgfd
+This is connection between the vscode and github. It allows you to manage your code repositories directly from Visual Studio Code, making it easier to collaborate with others and keep track of changes in your projects. You can clone repositories, commit changes, push updates, and even resolve merge conflicts without leaving the editor.
